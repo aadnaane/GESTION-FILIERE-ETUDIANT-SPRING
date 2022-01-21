@@ -1,0 +1,3 @@
+.idea/*
+target/AdnaneSpringCRUD-1.0/WEB-INF/lib/*
+target/*.war

@@ -1,0 +1,15 @@
+ma\ensat\dao\filieredao.class
+ma\ensat\model\etudiant.class
+ma\ensat\adnaneproject\resources\JavaEE8Resource.class
+ma\ensat\controller\etudiantcontroller.class
+ma\ensat\service\serviceetudiant.class
+ma\ensat\dao\filieredaoImp.class
+ma\ensat\dao\HibrenateUtil.class
+ma\ensat\service\serviceetudiantImp.class
+ma\ensat\dao\etudiantdao.class
+ma\ensat\model\filiere.class
+ma\ensat\controller\filierecontroller.class
+ma\ensat\service\servicefiliereImp.class
+ma\ensat\dao\etudiantdaoImp.class
+ma\ensat\adnaneproject\JAXRSConfiguration.class
+ma\ensat\service\servicefiliere.class
