@@ -40,7 +40,7 @@
          </tr> 
          <tr>     
           <td><input type="submit" value="Ajouter"  class="btn btn-success"/></td> 
-          <td> <a href="filiere" class="btn btn-primary">Annuler</a> </td>
+          <td> <a href="${pageContext.request.contextPath}/filiere" class="btn btn-primary">Annuler</a> </td>
          </tr>    
         </table>    
        </form:form>   
